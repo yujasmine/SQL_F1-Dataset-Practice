@@ -2,7 +2,7 @@
 ### Background
 
 
-Connect to the remote database [ErgastF1](https://relational.fit.cvut.cz/dataset/ErgastF1) to polish my data exploration skill in SQL environment.
+Connect to the remote database [ErgastF1](https://relational.fit.cvut.cz/dataset/ErgastF1) to polish my data exploration skill in the SQL environment.
 
 In this project, I perform the following actions:
 
